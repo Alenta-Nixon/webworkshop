@@ -1,0 +1,23 @@
+p{font-size: 16px;
+    line-height: 1.6;
+    color:rgb(0, 81, 255);
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+h1{font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    
+}
+div{
+    margin: 16px;
+ border: 6px slateblue solid;
+background-color: rgb(0, 247, 255);}
+#hii{
+    background-color: rgb(108, 160, 95);
+}
